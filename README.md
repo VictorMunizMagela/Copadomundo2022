@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
-[🔗 Acesse aqui](https://victormunizmagela.github.io/CopaDoMundoNLW)
+[🔗 Acesse aqui](https://victormunizmagela.github.io/Copadomundo2022/)
 
 <br>
 
